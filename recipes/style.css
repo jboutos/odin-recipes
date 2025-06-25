@@ -10,3 +10,7 @@ img {
     height: 540px;
     width: auto;
 }
+
+li {
+    padding: 10px;
+}
