@@ -2,6 +2,8 @@ body {
     font-family: Fantasy, "Times New Roman", Sans-serif;
     
     background-color: rgb(198, 229, 238);
+    width: 600px;
+    margin: 0 auto; 
 }
 
 img {
