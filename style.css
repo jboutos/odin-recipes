@@ -1,0 +1,14 @@
+body {
+    font-family: Fantasy, "Times New Roman", Sans-serif;
+    text-align: center;
+    background-color: rgb(198, 229, 238);
+}
+
+button {
+    background-color: rgb(201, 154, 198);
+    padding: 5px;
+}
+
+p {
+    font-size: 20px;
+}
